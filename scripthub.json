@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "Dex Explorer: Hack, Remote Spy, Any Game",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/wow.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "dex-explorer-script",
+    "featured_image": {
+      "thumbnail": "https://robloxscripts.com/wp-content/uploads/2022/05/bc1c2bc1fa799eac9c5810378cf63b25-4134525143-1.png"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Project WD Hub: Pet Simulator X, Doors, Mining Simulator 2, Evade, Slime Tycoon, Shindo Life",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Muhammad6196/Project-WD/main/Mainstring.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "project-wd-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071685387841437706/IMG_5148.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Pet Simulator X: Multi Target Auto Farm, Egg Auto Open & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://lkhub.net/s/loader.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "lkhub-script",
+    "featured_image": {
+      "thumbnail": "https://lkhub.net/assets/png/psx_image.png"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Bee Swarm Simulator: Auto Dig, Auto Sprinkler, Auto Plant",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Boxking776/kocmoc/main/kocmoc-remastered.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "kocmoc-script",
+    "featured_image": {
+      "thumbnail": "https://scripts.trx-roblox.com/img/post/vdYxYMB"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Bee Swarm Simulator: Auto Dig, Auto Srinkler & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://s.kometa.ga/kometa.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "kometa-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071695988206612580/image.png"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Combat Warriors: Kill Aura, Auto Parry, Anti Parry",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/leakediz/top-g/main/combat%20warriors\"))()",
+    "date": "05.02.2023",
+    "slug": "combat-warriors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071696189218639953/image.png"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Combat Warriors: Kill Aura, Auto Equip, Stomp Aura",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SussyImposterRed/Scripts/main/NOVA_HUB_SOURCE\"))()",
+    "date": "05.02.2023",
+    "slug": "combat-warriors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071696260320473129/image.png"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Combat Warriors Hub",
+    "excerpt": "loadstring(game:HttpGet((\"https://raw.githubusercontent.com/WinterDinder/sadness/main/keysystem\"), true))() local Module = loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "combat-warriors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071702408998158427/image.png"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Doomspire Brickbattle: Walkspeed, Jump Power, ESP",
+    "excerpt": "loadstring(game:HttpGet((\"https://pastebin.com/raw/mT10xnt7\"), true))()",
+    "date": "05.02.2023",
+    "slug": "doomspire-brickbattle-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071702650841747506/image.png"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Doomspire Brickbattle",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub\", true))()",
+    "date": "05.02.2023",
+    "slug": "doomspire-brickbattle-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703013472866334/image.png"
+    }
+  },
+  {
+    "id": 11,
+    "title": "DOORS: Players Esp, Client Glow, Doors Esp",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zoophiliaphobic/POOPDOORS/main/script.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "doors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703292138233896/image.png"
+    }
+  },
+  {
+    "id": 12,
+    "title": "DOORS: Esp, Auto Escape, Auto Farm",
+    "excerpt": "loadstring(game:HttpGet(\"https://ppearl.vercel.app\"))()",
+    "date": "05.02.2023",
+    "slug": "doors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703514398593055/image.png"
+    }
+  },
+  {
+    "id": 13,
+    "title": "DOORS: Skip Door, Auto Farm, Remove Walls",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/GamingResources/GamingResources-Script-Hub/main/Key%20System\", true))()",
+    "date": "05.02.2023",
+    "slug": "doors-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071703676030287924/image.png"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Cool Pro Hax: Aimbot, Esp, Any game",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Blissful4992/Miscellaneous/main/UNIVERSAL.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "universal-feesp-feaimbot-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071705750348509296/image.png"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Project Slayers: Auto Farm Bosses, Killaura, Inf Stamina",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/TweedLeak/Scripts/main/Project-Slayers.lua\"))() ",
+    "date": "05.02.2023",
+    "slug": "project-slayers-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071706403137388554/image.png"
+    }
+  },
+  {
+    "id": 16,
+    "title": "+1 Blocks Every Second: Auto Farm",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/1BlocksEverySecond.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "block-every-second-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071710025623556166/image.png"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Murder Mystery 2: Auto Farm, Godmode, Invis god",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OneProtocol/Project/main/Loader\", true))()",
+    "date": "05.02.2023",
+    "slug": "murder-mustery-2-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071710296529457233/image.png"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Project New World: Chest farm autohop",
+    "excerpt": "loadstring(game:HttpGet(\"https://srilol.tk\"))()",
+    "date": "05.02.2023",
+    "slug": "project-new-world-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071712027518701589/image.png"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Sword Fighters Simulator: Auto Click, Auto Ascend, Auto Upgrade",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SwordFightersSimulator.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "sword-figthers-simulator-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071712488401408141/image.png"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Anime Weapon Simulator: Auto Runk Up, Auto Click, Auto Collect Coins",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KodaLINEN/AnimeWeaponsSimulator/main/Main\"))()",
+    "date": "05.02.2023",
+    "slug": "anime-weapon-simulator-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071712656895000607/image.png"
+    }
+  },
+  {
+    "id": 21,
+    "title": "Phantom Forces: Silent, Aimbot, Esp, Kill All, Strawhook",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VoidMasterX/strawhook/main/script.lua\", true))()",
+    "date": "05.02.2023",
+    "slug": "phantom-forces-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071714290366689361/image.png"
+    }
+  },
+  {
+    "id": 22,
+    "title": "Phantom Forces: Unlock all",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/VoidMasterX/Releases/main/PF_UnlockAll.lua\"))();",
+    "date": "05.02.2023",
+    "slug": "phantom-forces-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071714650342830190/image.png"
+    }
+  },
+  {
+    "id": 23,
+    "title": "Arsenal: Silent Aim, Gun Mods, Esp",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ccxmIcal/cracks/main/strikehub.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "arsenal-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715155714506793/image.png"
+    }
+  },
+  {
+    "id": 24,
+    "title": "Arsenal: Aimbot, Silent Aim & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub\"))()",
+    "date": "05.02.2023",
+    "slug": "arsenal-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715321813143552/image.png"
+    }
+  },
+  {
+    "id": 25,
+    "title": "Arsenal: Walkspeed, Jump Power, Super Human",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Ragoon821/ScriptXHub-v2/main/ScriptXhub%20v2.1-serpent\"))()",
+    "date": "05.02.2023",
+    "slug": "arsenal-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715465157689344/image.png"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Blox Fruits: Simple Chest Auto Farm",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/nuqi7/TP-Chest-Blox-Fruit/main/TPChest.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "blox-fruits-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715591334940742/image.png"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Your Bizarre Adventure: Item Farm, Pickup Items, Mob Auto Farm",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Tobias020108Back/YBA-AUT/main/YBA-GUI-Rewrite.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "yba-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071715908353003580/image.png"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Your Bizarre Adventure: Auto Farm Quests, Auto Farm NPC's, Use Stands",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/yba2\", true))()",
+    "date": "05.02.2023",
+    "slug": "yba-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071716090536800276/image.png"
+    }
+  },
+  {
+    "id": 29,
+    "title": "Murder Mystery 2: Esp",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/murder2.lua\", true))()",
+    "date": "05.02.2023",
+    "slug": "murder-mystery-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071721182069534781/image.png"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Bee Swarm Simulator: Hub",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB\",true))()",
+    "date": "05.02.2023",
+    "slug": "bee-swarm-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071723451859075102/image.png"
+    }
+  },
+  {
+    "id": 31,
+    "title": "Infinite Yield: Admin Features, Fly, Noclip",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\",true))()",
+    "date": "05.02.2023",
+    "slug": "infinite-yield-script",
+    "featured_image": {
+      "thumbnail": ""
+    }
+  },
+  {
+    "id": 32,
+    "title": "Arsenal: Aimbot, ESP, Fov",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Fatida11/Universal-Aimbot-ESP/main/Universal%20Aimbot-ESP\"))()",
+    "date": "05.02.2023",
+    "slug": "arsenal-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071725612613521459/image.png"
+    }
+  },
+  {
+    "id": 33,
+    "title": "Fling: Any game, Punch Players",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/fling.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "fling-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071726282980728834/image.png"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Lyrics Bot: Let People Request Songs",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CF-Trail/lyricsBot/main/singer.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "lyrics-bot-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071726702142697482/image.png"
+    }
+  },
+  {
+    "id": 35,
+    "title": "Sword Fighters Simulator: Kill Aura, Auto Farm, Collect Coins",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KodaLINEN/Sword-Fighters-/main/Main\"))()",
+    "date": "05.02.2023",
+    "slug": "sword-fighters-simulator-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727009148969021/image.png"
+    }
+  },
+  {
+    "id": 36,
+    "title": "Bot Clash: Auto Farm, Auto Spin & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Krackenz/RobloxScripts/main/Protected%20(6).lua\",true))()",
+    "date": "05.02.2023",
+    "slug": "bot-clash-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727284869922908/image.png"
+    }
+  },
+  {
+    "id": 37,
+    "title": "Da Hood: Fly, SilentAim",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood\", true))()",
+    "date": "05.02.2023",
+    "slug": "da-hood-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727565259157554/image.png"
+    }
+  },
+  {
+    "id": 38,
+    "title": "Aero Hub: 30+ Games",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/aerocontentdeliverynetwork/3456465f7453x447r76h86856233423645756354b/master/loader.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "aero-hub-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071727856620675192/image.png"
+    }
+  },
+  {
+    "id": 39,
+    "title": "SPTS Origins: Auto Farm & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/deltvx/script.gg/main/Loader.lua\", true))()",
+    "date": "05.02.2023",
+    "slug": "spts-origins-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071729888496722010/image.png"
+    }
+  },
+  {
+    "id": 40,
+    "title": "Pet Simulator X: AutoFarm, Auto Egg & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/senpaigm/Cat-Hub/main/PetSimulatorXx.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "pet-simulator-x-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071736870372905081/image.png"
+    }
+  },
+  {
+    "id": 41,
+    "title": "Da Hood: Auto Buy, Money Give, Give Guns, Aimbot, Auto Box, Kill Aura & More!",
+    "excerpt": "loadstring(game:HttpsGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/dada.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "da-hood-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071737932026757191/image.png"
+    }
+  },
+  {
+    "id": 42,
+    "title": "Obscure Hub: 30+ Games",
+    "excerpt": "loadstring(game:HttpGet(\"https://www.obscurity.cf/Loader.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "obscure-hub-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071738668022243419/image.png"
+    }
+  },
+  {
+    "id": 43,
+    "title": "Ability Wars: Anti Knockback, Attack Aura , Walk speed",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Sw1ndlerScripts/RobloxScripts/main/AbilityWars.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "ability-wars-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071739236325277696/image.png"
+    }
+  },
+  {
+    "id": 44,
+    "title": "Shipping Lanes: All Teleports, Auto Refuel Ship, Auto Repair Ship",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sewerslut/Roblox/main/Games/Shipping-Lanes\"))()",
+    "date": "05.02.2023",
+    "slug": "shipping-lanes-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071741125716619305/image.png"
+    }
+  },
+  {
+    "id": 45,
+    "title": "Shindo Life: Auto Farm, Boss Farm, Jin Farm",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Xiovr/Roblox/main/SL.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "shindo-life-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071741704102752286/image.png"
+    }
+  },
+  {
+    "id": 46,
+    "title": "Blox Fruits | BuyItem, AutoFarm",
+    "excerpt": "loadstring(game:HttpGet(\"https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Nub-V1-Hub-4583\"))()",
+    "date": "05.02.2023",
+    "slug": "blox-fruits-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071741837901058128/image.png"
+    }
+  },
+  {
+    "id": 47,
+    "title": "Blox Fruits: Teleports, Dungeon Section & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sinret/rbxscript.com-scripts-reuploads-/main/playbackx\", true))()",
+    "date": "05.02.2023",
+    "slug": "blox-fruits-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071742132622217266/image.png"
+    }
+  },
+  {
+    "id": 48,
+    "title": "Blox Fruits: Auto Farm Level, Teleports & More",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/youngfixjitter/mamkalewisa/main/wowww.lua\"))()",
+    "date": "05.02.2023",
+    "slug": "blox-fruits-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071742323823747134/image.png"
+    }
+  },
+  {
+    "id": 49,
+    "title": "Horrific Housing: Infinity Money, Auto Farm, Teleports",
+    "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/GzZjj\", true))()",
+    "date": "05.02.2023",
+    "slug": "horrific-housing-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071742726434979911/image.png"
+    }
+  },
+  {
+    "id": 50,
+    "title": "Universal: AntiAFK",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind\", true))()",
+    "date": "05.02.2023",
+    "slug": "universal-antiafk-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071743568235999292/image.png"
+    }
+  }
+]
