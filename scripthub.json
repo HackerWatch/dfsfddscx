@@ -498,5 +498,15 @@
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071743568235999292/image.png"
     }
+  },
+  {
+    "id": 51,
+    "title": "Fist Fling",
+    "excerpt": "loadstring(game:HttpGet(\"\", true))()",
+    "date": "01.04.2023",
+    "slug": "fistfling-script",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/1058824884823789610/1071741125716619305/image.png"
+    }
   }
 ]
